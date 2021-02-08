@@ -11,6 +11,7 @@ Bibliotecas:
 -PubSubClient
 
 ## Materiais 
+
 -Arduino Uno
 -Módulo Ethernet (ENC28J60)
 -Sensor Magnético (MC-38)
